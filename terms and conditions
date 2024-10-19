@@ -32,5 +32,30 @@
         <h2>7. Contact Us</h2>
         <p>If you have any questions about these terms, please contact us at [Your Contact Information].</p>
     </div>
+ <div class="container">
+        <h1>Terms and Conditions</h1>
+        <p>Last updated: [Date]</p>
+
+        <h2>1. Introduction</h2>
+        <p>These Terms and Conditions govern your use of our website. By accessing the site, you agree to these terms.</p>
+
+        <h2>2. Use of the Site</h2>
+        <p>You must not use the site in any way that causes damage to the site or impairment of the availability or accessibility of the site.</p>
+
+        <h2>3. Intellectual Property</h2>
+        <p>All content, trademarks, and other intellectual property rights are owned by us or our licensors.</p>
+
+        <h2>4. Limitation of Liability</h2>
+        <p>We will not be liable for any loss or damage arising from your use of the site.</p>
+
+        <h2>5. Changes to These Terms</h2>
+        <p>We may revise these terms from time to time. The revised terms will apply from the date they are published on the site.</p>
+
+        <h2>6. Governing Law</h2>
+        <p>These terms are governed by the laws of [Your Country/State].</p>
+
+        <h2>7. Contact Us</h2>
+        <p>If you have any questions about these terms, please contact us at [Your Contact Information].</p>
+    </div>
 </body>
 </html>
